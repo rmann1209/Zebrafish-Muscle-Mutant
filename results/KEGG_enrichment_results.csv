@@ -1,0 +1,181 @@
+description,effective_domain_size,intersection_size,name,native,p_value,parents,precision,query,query_size,recall,significant,source,term_size
+Oxidative phosphorylation,5762,103,Oxidative phosphorylation,KEGG:00190,0.0009075536483057433,['KEGG:00000'],0.024246704331450094,query_1,4248,0.8956521739130435,True,KEGG,115
+Insulin signaling pathway,5762,122,Insulin signaling pathway,KEGG:04910,0.003540710195152594,['KEGG:00000'],0.02871939736346516,query_1,4248,0.8714285714285714,True,KEGG,140
+Cardiac muscle contraction,5762,106,Cardiac muscle contraction,KEGG:04260,0.013750716130650925,['KEGG:00000'],0.02495291902071563,query_1,4248,0.8688524590163934,True,KEGG,122
+ECM-receptor interaction,5762,69,ECM-receptor interaction,KEGG:04512,0.11872243602262322,['KEGG:00000'],0.016242937853107344,query_1,4248,0.8734177215189873,False,KEGG,79
+Ribosome,5762,89,Ribosome,KEGG:03010,0.12165329924426144,['KEGG:00000'],0.020951035781544256,query_1,4248,0.8557692307692307,False,KEGG,104
+Various types of N-glycan biosynthesis,5762,37,Various types of N-glycan biosynthesis,KEGG:00513,0.1307899511405695,['KEGG:00000'],0.008709981167608287,query_1,4248,0.925,False,KEGG,40
+Pantothenate and CoA biosynthesis,5762,19,Pantothenate and CoA biosynthesis,KEGG:00770,0.14245339336054175,['KEGG:00000'],0.004472693032015066,query_1,4248,1.0,False,KEGG,19
+Glycolysis / Gluconeogenesis,5762,50,Glycolysis / Gluconeogenesis,KEGG:00010,0.16851438055359108,['KEGG:00000'],0.011770244821092278,query_1,4248,0.8928571428571429,False,KEGG,56
+FoxO signaling pathway,5762,116,FoxO signaling pathway,KEGG:04068,0.3155725539035917,['KEGG:00000'],0.027306967984934087,query_1,4248,0.8285714285714286,False,KEGG,140
+Autophagy - animal,5762,139,Autophagy - animal,KEGG:04140,0.3871859632901849,['KEGG:00000'],0.032721280602636536,query_1,4248,0.8176470588235294,False,KEGG,170
+Inositol phosphate metabolism,5762,65,Inositol phosphate metabolism,KEGG:00562,0.4703862781259401,['KEGG:00000'],0.015301318267419962,query_1,4248,0.8552631578947368,False,KEGG,76
+Carbon metabolism,5762,80,Carbon metabolism,KEGG:01200,0.4863183033337068,['KEGG:00000'],0.018832391713747645,query_1,4248,0.8421052631578947,False,KEGG,95
+Focal adhesion,5762,171,Focal adhesion,KEGG:04510,0.48682068832878017,['KEGG:00000'],0.04025423728813559,query_1,4248,0.8066037735849056,False,KEGG,212
+Butanoate metabolism,5762,21,Butanoate metabolism,KEGG:00650,0.5050011087572166,['KEGG:00000'],0.0049435028248587575,query_1,4248,0.9545454545454546,False,KEGG,22
+Progesterone-mediated oocyte maturation,5762,71,Progesterone-mediated oocyte maturation,KEGG:04914,0.6084764278433071,['KEGG:00000'],0.016713747645951037,query_1,4248,0.8452380952380952,False,KEGG,84
+Endocytosis,5762,213,Endocytosis,KEGG:04144,0.7237500979810816,['KEGG:00000'],0.05014124293785311,query_1,4248,0.7947761194029851,False,KEGG,268
+"Valine, leucine and isoleucine degradation",5762,42,"Valine, leucine and isoleucine degradation",KEGG:00280,0.7982443893886653,['KEGG:00000'],0.009887005649717515,query_1,4248,0.875,False,KEGG,48
+Adrenergic signaling in cardiomyocytes,5762,159,Adrenergic signaling in cardiomyocytes,KEGG:04261,0.834865460213222,['KEGG:00000'],0.03742937853107345,query_1,4248,0.803030303030303,False,KEGG,198
+Steroid biosynthesis,5762,19,Steroid biosynthesis,KEGG:00100,0.8559853998744449,['KEGG:00000'],0.004472693032015066,query_1,4248,0.95,False,KEGG,20
+Polycomb repressive complex,5762,61,Polycomb repressive complex,KEGG:03083,0.8856277609414749,['KEGG:00000'],0.01435969868173258,query_1,4248,0.8472222222222222,False,KEGG,72
+Metabolic pathways,5762,1081,Metabolic pathways,KEGG:01100,0.990263825897576,['KEGG:00000'],0.2544726930320151,query_1,4248,0.7580645161290323,False,KEGG,1426
+Cytokine-cytokine receptor interaction,5762,118,Cytokine-cytokine receptor interaction,KEGG:04060,1.0,['KEGG:00000'],0.027777777777777776,query_1,4248,0.6666666666666666,False,KEGG,177
+Calcium signaling pathway,5762,201,Calcium signaling pathway,KEGG:04020,1.0,['KEGG:00000'],0.04731638418079096,query_1,4248,0.6790540540540541,False,KEGG,296
+mRNA surveillance pathway,5762,56,mRNA surveillance pathway,KEGG:03015,1.0,['KEGG:00000'],0.013182674199623353,query_1,4248,0.7466666666666667,False,KEGG,75
+Nucleocytoplasmic transport,5762,57,Nucleocytoplasmic transport,KEGG:03013,1.0,['KEGG:00000'],0.013418079096045197,query_1,4248,0.6705882352941176,False,KEGG,85
+Phosphatidylinositol signaling system,5762,70,Phosphatidylinositol signaling system,KEGG:04070,1.0,['KEGG:00000'],0.01647834274952919,query_1,4248,0.7865168539325843,False,KEGG,89
+Neuroactive ligand-receptor interaction,5762,248,Neuroactive ligand-receptor interaction,KEGG:04080,1.0,['KEGG:00000'],0.0583804143126177,query_1,4248,0.5933014354066986,False,KEGG,418
+ErbB signaling pathway,5762,73,ErbB signaling pathway,KEGG:04012,1.0,['KEGG:00000'],0.017184557438794726,query_1,4248,0.8295454545454546,False,KEGG,88
+MAPK signaling pathway,5762,259,MAPK signaling pathway,KEGG:04010,1.0,['KEGG:00000'],0.060969868173258,query_1,4248,0.7777777777777778,False,KEGG,333
+Fanconi anemia pathway,5762,19,Fanconi anemia pathway,KEGG:03460,1.0,['KEGG:00000'],0.004472693032015066,query_1,4248,0.5757575757575758,False,KEGG,33
+Non-homologous end-joining,5762,7,Non-homologous end-joining,KEGG:03450,1.0,['KEGG:00000'],0.001647834274952919,query_1,4248,0.5833333333333334,False,KEGG,12
+Homologous recombination,5762,23,Homologous recombination,KEGG:03440,1.0,['KEGG:00000'],0.005414312617702448,query_1,4248,0.71875,False,KEGG,32
+Cell cycle,5762,105,Cell cycle,KEGG:04110,1.0,['KEGG:00000'],0.024717514124293787,query_1,4248,0.6862745098039216,False,KEGG,153
+Mismatch repair,5762,9,Mismatch repair,KEGG:03430,1.0,['KEGG:00000'],0.00211864406779661,query_1,4248,0.5625,False,KEGG,16
+Base excision repair,5762,23,Base excision repair,KEGG:03410,1.0,['KEGG:00000'],0.005414312617702448,query_1,4248,0.575,False,KEGG,40
+RNA degradation,5762,49,RNA degradation,KEGG:03018,1.0,['KEGG:00000'],0.011534839924670434,query_1,4248,0.765625,False,KEGG,64
+DNA replication,5762,13,DNA replication,KEGG:03030,1.0,['KEGG:00000'],0.0030602636534839923,query_1,4248,0.43333333333333335,False,KEGG,30
+Spliceosome,5762,88,Spliceosome,KEGG:03040,1.0,['KEGG:00000'],0.02071563088512241,query_1,4248,0.7457627118644068,False,KEGG,118
+Proteasome,5762,32,Proteasome,KEGG:03050,1.0,['KEGG:00000'],0.007532956685499058,query_1,4248,0.7111111111111111,False,KEGG,45
+Protein export,5762,18,Protein export,KEGG:03060,1.0,['KEGG:00000'],0.00423728813559322,query_1,4248,0.6923076923076923,False,KEGG,26
+ATP-dependent chromatin remodeling,5762,85,ATP-dependent chromatin remodeling,KEGG:03082,1.0,['KEGG:00000'],0.020009416195856874,query_1,4248,0.7391304347826086,False,KEGG,115
+Viral life cycle - HIV-1,5762,39,Viral life cycle - HIV-1,KEGG:03250,1.0,['KEGG:00000'],0.009180790960451978,query_1,4248,0.6724137931034483,False,KEGG,58
+Virion - Human immunodeficiency virus,5762,2,Virion - Human immunodeficiency virus,KEGG:03260,1.0,['KEGG:00000'],0.00047080979284369113,query_1,4248,0.5,False,KEGG,4
+Virion - Flavivirus,5762,2,Virion - Flavivirus,KEGG:03264,1.0,['KEGG:00000'],0.00047080979284369113,query_1,4248,1.0,False,KEGG,2
+Virion - Ebolavirus and Lyssavirus,5762,6,Virion - Ebolavirus and Lyssavirus,KEGG:03265,1.0,['KEGG:00000'],0.0014124293785310734,query_1,4248,0.8571428571428571,False,KEGG,7
+Oocyte meiosis,5762,89,Oocyte meiosis,KEGG:04114,1.0,['KEGG:00000'],0.020951035781544256,query_1,4248,0.7807017543859649,False,KEGG,114
+Virion - Adenovirus,5762,1,Virion - Adenovirus,KEGG:03267,1.0,['KEGG:00000'],0.00023540489642184556,query_1,4248,1.0,False,KEGG,1
+RNA polymerase,5762,19,RNA polymerase,KEGG:03020,1.0,['KEGG:00000'],0.004472693032015066,query_1,4248,0.76,False,KEGG,25
+Virion - Rotavirus,5762,1,Virion - Rotavirus,KEGG:03271,1.0,['KEGG:00000'],0.00023540489642184556,query_1,4248,0.5,False,KEGG,2
+PPAR signaling pathway,5762,55,PPAR signaling pathway,KEGG:03320,1.0,['KEGG:00000'],0.012947269303201506,query_1,4248,0.6707317073170732,False,KEGG,82
+Basal transcription factors,5762,27,Basal transcription factors,KEGG:03022,1.0,['KEGG:00000'],0.006355932203389831,query_1,4248,0.8181818181818182,False,KEGG,33
+Nucleotide excision repair,5762,35,Nucleotide excision repair,KEGG:03420,1.0,['KEGG:00000'],0.008239171374764594,query_1,4248,0.7446808510638298,False,KEGG,47
+Virion - Herpesvirus,5762,7,Virion - Herpesvirus,KEGG:03266,1.0,['KEGG:00000'],0.001647834274952919,query_1,4248,0.7777777777777778,False,KEGG,9
+KEGG root term,5762,4248,KEGG root term,KEGG:00000,1.0,[],1.0,query_1,4248,0.7372440124956612,False,KEGG,5762
+Ubiquitin mediated proteolysis,5762,94,Ubiquitin mediated proteolysis,KEGG:04120,1.0,['KEGG:00000'],0.022128060263653482,query_1,4248,0.8103448275862069,False,KEGG,116
+Cell adhesion molecules,5762,89,Cell adhesion molecules,KEGG:04514,1.0,['KEGG:00000'],0.020951035781544256,query_1,4248,0.6312056737588653,False,KEGG,141
+Adherens junction,5762,96,Adherens junction,KEGG:04520,1.0,['KEGG:00000'],0.022598870056497175,query_1,4248,0.7933884297520661,False,KEGG,121
+Tight junction,5762,145,Tight junction,KEGG:04530,1.0,['KEGG:00000'],0.03413370998116761,query_1,4248,0.7323232323232324,False,KEGG,198
+Gap junction,5762,65,Gap junction,KEGG:04540,1.0,['KEGG:00000'],0.015301318267419962,query_1,4248,0.6914893617021277,False,KEGG,94
+Toll-like receptor signaling pathway,5762,66,Toll-like receptor signaling pathway,KEGG:04620,1.0,['KEGG:00000'],0.015536723163841809,query_1,4248,0.7674418604651163,False,KEGG,86
+NOD-like receptor signaling pathway,5762,99,NOD-like receptor signaling pathway,KEGG:04621,1.0,['KEGG:00000'],0.023305084745762712,query_1,4248,0.7388059701492538,False,KEGG,134
+RIG-I-like receptor signaling pathway,5762,44,RIG-I-like receptor signaling pathway,KEGG:04622,1.0,['KEGG:00000'],0.010357815442561206,query_1,4248,0.7857142857142857,False,KEGG,56
+Apelin signaling pathway,5762,123,Apelin signaling pathway,KEGG:04371,1.0,['KEGG:00000'],0.028954802259887006,query_1,4248,0.7834394904458599,False,KEGG,157
+Cytosolic DNA-sensing pathway,5762,38,Cytosolic DNA-sensing pathway,KEGG:04623,1.0,['KEGG:00000'],0.008945386064030132,query_1,4248,0.7037037037037037,False,KEGG,54
+Intestinal immune network for IgA production,5762,18,Intestinal immune network for IgA production,KEGG:04672,1.0,['KEGG:00000'],0.00423728813559322,query_1,4248,0.5142857142857142,False,KEGG,35
+Phototransduction,5762,26,Phototransduction,KEGG:04744,1.0,['KEGG:00000'],0.006120527306967985,query_1,4248,0.6666666666666666,False,KEGG,39
+Regulation of actin cytoskeleton,5762,181,Regulation of actin cytoskeleton,KEGG:04810,1.0,['KEGG:00000'],0.04260828625235405,query_1,4248,0.7387755102040816,False,KEGG,245
+Motor proteins,5762,155,Motor proteins,KEGG:04814,1.0,['KEGG:00000'],0.03648775894538606,query_1,4248,0.775,False,KEGG,200
+GnRH signaling pathway,5762,74,GnRH signaling pathway,KEGG:04912,1.0,['KEGG:00000'],0.017419962335216574,query_1,4248,0.74,False,KEGG,100
+Melanogenesis,5762,84,Melanogenesis,KEGG:04916,1.0,['KEGG:00000'],0.01977401129943503,query_1,4248,0.7368421052631579,False,KEGG,114
+Adipocytokine signaling pathway,5762,68,Adipocytokine signaling pathway,KEGG:04920,1.0,['KEGG:00000'],0.0160075329566855,query_1,4248,0.8292682926829268,False,KEGG,82
+C-type lectin receptor signaling pathway,5762,74,C-type lectin receptor signaling pathway,KEGG:04625,1.0,['KEGG:00000'],0.017419962335216574,query_1,4248,0.7474747474747475,False,KEGG,99
+VEGF signaling pathway,5762,51,VEGF signaling pathway,KEGG:04370,1.0,['KEGG:00000'],0.012005649717514125,query_1,4248,0.796875,False,KEGG,64
+TGF-beta signaling pathway,5762,94,TGF-beta signaling pathway,KEGG:04350,1.0,['KEGG:00000'],0.022128060263653482,query_1,4248,0.7704918032786885,False,KEGG,122
+Hedgehog signaling pathway,5762,46,Hedgehog signaling pathway,KEGG:04340,1.0,['KEGG:00000'],0.010828625235404897,query_1,4248,0.7666666666666667,False,KEGG,60
+Sulfur relay system,5762,4,Sulfur relay system,KEGG:04122,1.0,['KEGG:00000'],0.0009416195856873823,query_1,4248,0.8,False,KEGG,5
+SNARE interactions in vesicular transport,5762,24,SNARE interactions in vesicular transport,KEGG:04130,1.0,['KEGG:00000'],0.005649717514124294,query_1,4248,0.8,False,KEGG,30
+Autophagy - other,5762,22,Autophagy - other,KEGG:04136,1.0,['KEGG:00000'],0.005178907721280603,query_1,4248,0.9166666666666666,False,KEGG,24
+Mitophagy - animal,5762,92,Mitophagy - animal,KEGG:04137,1.0,['KEGG:00000'],0.021657250470809793,query_1,4248,0.8214285714285714,False,KEGG,112
+Protein processing in endoplasmic reticulum,5762,124,Protein processing in endoplasmic reticulum,KEGG:04141,1.0,['KEGG:00000'],0.02919020715630885,query_1,4248,0.7607361963190185,False,KEGG,163
+Lysosome,5762,105,Lysosome,KEGG:04142,1.0,['KEGG:00000'],0.024717514124293787,query_1,4248,0.7241379310344828,False,KEGG,145
+Phagosome,5762,93,Phagosome,KEGG:04145,1.0,['KEGG:00000'],0.021892655367231638,query_1,4248,0.6838235294117647,False,KEGG,136
+Peroxisome,5762,58,Peroxisome,KEGG:04146,1.0,['KEGG:00000'],0.013653483992467044,query_1,4248,0.6823529411764706,False,KEGG,85
+Efferocytosis,5762,127,Efferocytosis,KEGG:04148,1.0,['KEGG:00000'],0.029896421845574388,query_1,4248,0.7470588235294118,False,KEGG,170
+mTOR signaling pathway,5762,117,mTOR signaling pathway,KEGG:04150,1.0,['KEGG:00000'],0.02754237288135593,query_1,4248,0.8068965517241379,False,KEGG,145
+Apoptosis,5762,115,Apoptosis,KEGG:04210,1.0,['KEGG:00000'],0.027071563088512243,query_1,4248,0.732484076433121,False,KEGG,157
+Ferroptosis,5762,36,Ferroptosis,KEGG:04216,1.0,['KEGG:00000'],0.00847457627118644,query_1,4248,0.782608695652174,False,KEGG,46
+Necroptosis,5762,107,Necroptosis,KEGG:04217,1.0,['KEGG:00000'],0.025188323917137476,query_1,4248,0.6604938271604939,False,KEGG,162
+Cellular senescence,5762,112,Cellular senescence,KEGG:04218,1.0,['KEGG:00000'],0.026365348399246705,query_1,4248,0.7466666666666667,False,KEGG,150
+Vascular smooth muscle contraction,5762,101,Vascular smooth muscle contraction,KEGG:04270,1.0,['KEGG:00000'],0.0237758945386064,query_1,4248,0.7214285714285714,False,KEGG,140
+Wnt signaling pathway,5762,134,Wnt signaling pathway,KEGG:04310,1.0,['KEGG:00000'],0.03154425612052731,query_1,4248,0.7657142857142857,False,KEGG,175
+Notch signaling pathway,5762,46,Notch signaling pathway,KEGG:04330,1.0,['KEGG:00000'],0.010828625235404897,query_1,4248,0.7666666666666667,False,KEGG,60
+p53 signaling pathway,5762,48,p53 signaling pathway,KEGG:04115,1.0,['KEGG:00000'],0.011299435028248588,query_1,4248,0.7164179104477612,False,KEGG,67
+Ribosome biogenesis in eukaryotes,5762,41,Ribosome biogenesis in eukaryotes,KEGG:03008,1.0,['KEGG:00000'],0.009651600753295669,query_1,4248,0.6307692307692307,False,KEGG,65
+Fatty acid metabolism,5762,47,Fatty acid metabolism,KEGG:01212,1.0,['KEGG:00000'],0.011064030131826741,query_1,4248,0.734375,False,KEGG,64
+Biosynthesis of nucleotide sugars,5762,27,Biosynthesis of nucleotide sugars,KEGG:01250,1.0,['KEGG:00000'],0.006355932203389831,query_1,4248,0.75,False,KEGG,36
+Histidine metabolism,5762,16,Histidine metabolism,KEGG:00340,1.0,['KEGG:00000'],0.003766478342749529,query_1,4248,0.7619047619047619,False,KEGG,21
+Tyrosine metabolism,5762,18,Tyrosine metabolism,KEGG:00350,1.0,['KEGG:00000'],0.00423728813559322,query_1,4248,0.6666666666666666,False,KEGG,27
+Phenylalanine metabolism,5762,8,Phenylalanine metabolism,KEGG:00360,1.0,['KEGG:00000'],0.0018832391713747645,query_1,4248,0.7272727272727273,False,KEGG,11
+Tryptophan metabolism,5762,30,Tryptophan metabolism,KEGG:00380,1.0,['KEGG:00000'],0.007062146892655367,query_1,4248,0.75,False,KEGG,40
+"Phenylalanine, tyrosine and tryptophan biosynthesis",5762,4,"Phenylalanine, tyrosine and tryptophan biosynthesis",KEGG:00400,1.0,['KEGG:00000'],0.0009416195856873823,query_1,4248,0.8,False,KEGG,5
+beta-Alanine metabolism,5762,26,beta-Alanine metabolism,KEGG:00410,1.0,['KEGG:00000'],0.006120527306967985,query_1,4248,0.8387096774193549,False,KEGG,31
+Taurine and hypotaurine metabolism,5762,13,Taurine and hypotaurine metabolism,KEGG:00430,1.0,['KEGG:00000'],0.0030602636534839923,query_1,4248,0.8125,False,KEGG,16
+Phosphonate and phosphinate metabolism,5762,6,Phosphonate and phosphinate metabolism,KEGG:00440,1.0,['KEGG:00000'],0.0014124293785310734,query_1,4248,0.6666666666666666,False,KEGG,9
+Selenocompound metabolism,5762,8,Selenocompound metabolism,KEGG:00450,1.0,['KEGG:00000'],0.0018832391713747645,query_1,4248,0.5,False,KEGG,16
+D-Amino acid metabolism,5762,6,D-Amino acid metabolism,KEGG:00470,1.0,['KEGG:00000'],0.0014124293785310734,query_1,4248,0.6666666666666666,False,KEGG,9
+Glutathione metabolism,5762,37,Glutathione metabolism,KEGG:00480,1.0,['KEGG:00000'],0.008709981167608287,query_1,4248,0.6981132075471698,False,KEGG,53
+Starch and sucrose metabolism,5762,20,Starch and sucrose metabolism,KEGG:00500,1.0,['KEGG:00000'],0.004708097928436911,query_1,4248,0.6896551724137931,False,KEGG,29
+N-Glycan biosynthesis,5762,42,N-Glycan biosynthesis,KEGG:00510,1.0,['KEGG:00000'],0.009887005649717515,query_1,4248,0.8235294117647058,False,KEGG,51
+Other glycan degradation,5762,13,Other glycan degradation,KEGG:00511,1.0,['KEGG:00000'],0.0030602636534839923,query_1,4248,0.8125,False,KEGG,16
+Mucin type O-glycan biosynthesis,5762,22,Mucin type O-glycan biosynthesis,KEGG:00512,1.0,['KEGG:00000'],0.005178907721280603,query_1,4248,0.6666666666666666,False,KEGG,33
+Other types of O-glycan biosynthesis,5762,32,Other types of O-glycan biosynthesis,KEGG:00514,1.0,['KEGG:00000'],0.007532956685499058,query_1,4248,0.6666666666666666,False,KEGG,48
+Mannose type O-glycan biosynthesis,5762,15,Mannose type O-glycan biosynthesis,KEGG:00515,1.0,['KEGG:00000'],0.0035310734463276836,query_1,4248,0.75,False,KEGG,20
+Arginine and proline metabolism,5762,40,Arginine and proline metabolism,KEGG:00330,1.0,['KEGG:00000'],0.009416195856873822,query_1,4248,0.8,False,KEGG,50
+Lysine degradation,5762,54,Lysine degradation,KEGG:00310,1.0,['KEGG:00000'],0.012711864406779662,query_1,4248,0.8059701492537313,False,KEGG,67
+"Valine, leucine and isoleucine biosynthesis",5762,3,"Valine, leucine and isoleucine biosynthesis",KEGG:00290,1.0,['KEGG:00000'],0.0007062146892655367,query_1,4248,1.0,False,KEGG,3
+Cysteine and methionine metabolism,5762,33,Cysteine and methionine metabolism,KEGG:00270,1.0,['KEGG:00000'],0.007768361581920904,query_1,4248,0.717391304347826,False,KEGG,46
+Citrate cycle (TCA cycle),5762,22,Citrate cycle (TCA cycle),KEGG:00020,1.0,['KEGG:00000'],0.005178907721280603,query_1,4248,0.8461538461538461,False,KEGG,26
+Pentose phosphate pathway,5762,19,Pentose phosphate pathway,KEGG:00030,1.0,['KEGG:00000'],0.004472693032015066,query_1,4248,0.8260869565217391,False,KEGG,23
+Pentose and glucuronate interconversions,5762,16,Pentose and glucuronate interconversions,KEGG:00040,1.0,['KEGG:00000'],0.003766478342749529,query_1,4248,0.47058823529411764,False,KEGG,34
+Fructose and mannose metabolism,5762,30,Fructose and mannose metabolism,KEGG:00051,1.0,['KEGG:00000'],0.007062146892655367,query_1,4248,0.8108108108108109,False,KEGG,37
+Galactose metabolism,5762,16,Galactose metabolism,KEGG:00052,1.0,['KEGG:00000'],0.003766478342749529,query_1,4248,0.6956521739130435,False,KEGG,23
+Ascorbate and aldarate metabolism,5762,21,Ascorbate and aldarate metabolism,KEGG:00053,1.0,['KEGG:00000'],0.0049435028248587575,query_1,4248,0.6,False,KEGG,35
+Fatty acid biosynthesis,5762,12,Fatty acid biosynthesis,KEGG:00061,1.0,['KEGG:00000'],0.002824858757062147,query_1,4248,0.7058823529411765,False,KEGG,17
+Fatty acid elongation,5762,26,Fatty acid elongation,KEGG:00062,1.0,['KEGG:00000'],0.006120527306967985,query_1,4248,0.7222222222222222,False,KEGG,36
+Amino sugar and nucleotide sugar metabolism,5762,38,Amino sugar and nucleotide sugar metabolism,KEGG:00520,1.0,['KEGG:00000'],0.008945386064030132,query_1,4248,0.7037037037037037,False,KEGG,54
+Fatty acid degradation,5762,36,Fatty acid degradation,KEGG:00071,1.0,['KEGG:00000'],0.00847457627118644,query_1,4248,0.8,False,KEGG,45
+Ubiquinone and other terpenoid-quinone biosynthesis,5762,7,Ubiquinone and other terpenoid-quinone biosynthesis,KEGG:00130,1.0,['KEGG:00000'],0.001647834274952919,query_1,4248,0.875,False,KEGG,8
+Steroid hormone biosynthesis,5762,27,Steroid hormone biosynthesis,KEGG:00140,1.0,['KEGG:00000'],0.006355932203389831,query_1,4248,0.5192307692307693,False,KEGG,52
+Arginine biosynthesis,5762,13,Arginine biosynthesis,KEGG:00220,1.0,['KEGG:00000'],0.0030602636534839923,query_1,4248,0.5909090909090909,False,KEGG,22
+Purine metabolism,5762,103,Purine metabolism,KEGG:00230,1.0,['KEGG:00000'],0.024246704331450094,query_1,4248,0.762962962962963,False,KEGG,135
+Caffeine metabolism,5762,3,Caffeine metabolism,KEGG:00232,1.0,['KEGG:00000'],0.0007062146892655367,query_1,4248,0.75,False,KEGG,4
+Pyrimidine metabolism,5762,40,Pyrimidine metabolism,KEGG:00240,1.0,['KEGG:00000'],0.009416195856873822,query_1,4248,0.7272727272727273,False,KEGG,55
+"Alanine, aspartate and glutamate metabolism",5762,26,"Alanine, aspartate and glutamate metabolism",KEGG:00250,1.0,['KEGG:00000'],0.006120527306967985,query_1,4248,0.6842105263157895,False,KEGG,38
+"Glycine, serine and threonine metabolism",5762,33,"Glycine, serine and threonine metabolism",KEGG:00260,1.0,['KEGG:00000'],0.007768361581920904,query_1,4248,0.868421052631579,False,KEGG,38
+Primary bile acid biosynthesis,5762,12,Primary bile acid biosynthesis,KEGG:00120,1.0,['KEGG:00000'],0.002824858757062147,query_1,4248,0.48,False,KEGG,25
+ABC transporters,5762,28,ABC transporters,KEGG:02010,1.0,['KEGG:00000'],0.006591337099811676,query_1,4248,0.7567567567567568,False,KEGG,37
+"Neomycin, kanamycin and gentamicin biosynthesis",5762,1,"Neomycin, kanamycin and gentamicin biosynthesis",KEGG:00524,1.0,['KEGG:00000'],0.00023540489642184556,query_1,4248,1.0,False,KEGG,1
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate,5762,19,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate,KEGG:00532,1.0,['KEGG:00000'],0.004472693032015066,query_1,4248,0.7037037037037037,False,KEGG,27
+Lipoic acid metabolism,5762,12,Lipoic acid metabolism,KEGG:00785,1.0,['KEGG:00000'],0.002824858757062147,query_1,4248,0.9230769230769231,False,KEGG,13
+Folate biosynthesis,5762,22,Folate biosynthesis,KEGG:00790,1.0,['KEGG:00000'],0.005178907721280603,query_1,4248,0.9166666666666666,False,KEGG,24
+Retinol metabolism,5762,34,Retinol metabolism,KEGG:00830,1.0,['KEGG:00000'],0.00800376647834275,query_1,4248,0.5483870967741935,False,KEGG,62
+Porphyrin metabolism,5762,25,Porphyrin metabolism,KEGG:00860,1.0,['KEGG:00000'],0.005885122410546139,query_1,4248,0.5813953488372093,False,KEGG,43
+Terpenoid backbone biosynthesis,5762,15,Terpenoid backbone biosynthesis,KEGG:00900,1.0,['KEGG:00000'],0.0035310734463276836,query_1,4248,0.8823529411764706,False,KEGG,17
+Nitrogen metabolism,5762,9,Nitrogen metabolism,KEGG:00910,1.0,['KEGG:00000'],0.00211864406779661,query_1,4248,0.6,False,KEGG,15
+Sulfur metabolism,5762,6,Sulfur metabolism,KEGG:00920,1.0,['KEGG:00000'],0.0014124293785310734,query_1,4248,0.75,False,KEGG,8
+Aminoacyl-tRNA biosynthesis,5762,27,Aminoacyl-tRNA biosynthesis,KEGG:00970,1.0,['KEGG:00000'],0.006355932203389831,query_1,4248,0.75,False,KEGG,36
+Metabolism of xenobiotics by cytochrome P450,5762,22,Metabolism of xenobiotics by cytochrome P450,KEGG:00980,1.0,['KEGG:00000'],0.005178907721280603,query_1,4248,0.4583333333333333,False,KEGG,48
+Drug metabolism - cytochrome P450,5762,21,Drug metabolism - cytochrome P450,KEGG:00982,1.0,['KEGG:00000'],0.0049435028248587575,query_1,4248,0.4772727272727273,False,KEGG,44
+Drug metabolism - other enzymes,5762,41,Drug metabolism - other enzymes,KEGG:00983,1.0,['KEGG:00000'],0.009651600753295669,query_1,4248,0.5694444444444444,False,KEGG,72
+Biosynthesis of unsaturated fatty acids,5762,23,Biosynthesis of unsaturated fatty acids,KEGG:01040,1.0,['KEGG:00000'],0.005414312617702448,query_1,4248,0.7666666666666667,False,KEGG,30
+2-Oxocarboxylic acid metabolism,5762,23,2-Oxocarboxylic acid metabolism,KEGG:01210,1.0,['KEGG:00000'],0.005414312617702448,query_1,4248,0.8518518518518519,False,KEGG,27
+Salmonella infection,5762,205,Salmonella infection,KEGG:05132,1.0,['KEGG:00000'],0.04825800376647834,query_1,4248,0.7509157509157509,False,KEGG,273
+Biosynthesis of amino acids,5762,56,Biosynthesis of amino acids,KEGG:01230,1.0,['KEGG:00000'],0.013182674199623353,query_1,4248,0.8235294117647058,False,KEGG,68
+Nucleotide metabolism,5762,67,Nucleotide metabolism,KEGG:01232,1.0,['KEGG:00000'],0.015772128060263655,query_1,4248,0.7444444444444445,False,KEGG,90
+Biosynthesis of cofactors,5762,116,Biosynthesis of cofactors,KEGG:01240,1.0,['KEGG:00000'],0.027306967984934087,query_1,4248,0.7733333333333333,False,KEGG,150
+Biotin metabolism,5762,2,Biotin metabolism,KEGG:00780,1.0,['KEGG:00000'],0.00047080979284369113,query_1,4248,0.6666666666666666,False,KEGG,3
+Nicotinate and nicotinamide metabolism,5762,31,Nicotinate and nicotinamide metabolism,KEGG:00760,1.0,['KEGG:00000'],0.007297551789077213,query_1,4248,0.8378378378378378,False,KEGG,37
+Vitamin B6 metabolism,5762,6,Vitamin B6 metabolism,KEGG:00750,1.0,['KEGG:00000'],0.0014124293785310734,query_1,4248,0.8571428571428571,False,KEGG,7
+Riboflavin metabolism,5762,6,Riboflavin metabolism,KEGG:00740,1.0,['KEGG:00000'],0.0014124293785310734,query_1,4248,1.0,False,KEGG,6
+Glycosaminoglycan biosynthesis - keratan sulfate,5762,12,Glycosaminoglycan biosynthesis - keratan sulfate,KEGG:00533,1.0,['KEGG:00000'],0.002824858757062147,query_1,4248,0.7058823529411765,False,KEGG,17
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin,5762,19,Glycosaminoglycan biosynthesis - heparan sulfate / heparin,KEGG:00534,1.0,['KEGG:00000'],0.004472693032015066,query_1,4248,0.7916666666666666,False,KEGG,24
+Glycerolipid metabolism,5762,47,Glycerolipid metabolism,KEGG:00561,1.0,['KEGG:00000'],0.011064030131826741,query_1,4248,0.8392857142857143,False,KEGG,56
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,5762,15,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,KEGG:00563,1.0,['KEGG:00000'],0.0035310734463276836,query_1,4248,0.7894736842105263,False,KEGG,19
+Glycerophospholipid metabolism,5762,68,Glycerophospholipid metabolism,KEGG:00564,1.0,['KEGG:00000'],0.0160075329566855,query_1,4248,0.7555555555555555,False,KEGG,90
+Ether lipid metabolism,5762,29,Ether lipid metabolism,KEGG:00565,1.0,['KEGG:00000'],0.006826741996233522,query_1,4248,0.6590909090909091,False,KEGG,44
+Arachidonic acid metabolism,5762,36,Arachidonic acid metabolism,KEGG:00590,1.0,['KEGG:00000'],0.00847457627118644,query_1,4248,0.6792452830188679,False,KEGG,53
+Linoleic acid metabolism,5762,18,Linoleic acid metabolism,KEGG:00591,1.0,['KEGG:00000'],0.00423728813559322,query_1,4248,0.6428571428571429,False,KEGG,28
+Glycosaminoglycan degradation,5762,13,Glycosaminoglycan degradation,KEGG:00531,1.0,['KEGG:00000'],0.0030602636534839923,query_1,4248,0.6842105263157895,False,KEGG,19
+alpha-Linolenic acid metabolism,5762,13,alpha-Linolenic acid metabolism,KEGG:00592,1.0,['KEGG:00000'],0.0030602636534839923,query_1,4248,0.6190476190476191,False,KEGG,21
+Glycosphingolipid biosynthesis - lacto and neolacto series,5762,17,Glycosphingolipid biosynthesis - lacto and neolacto series,KEGG:00601,1.0,['KEGG:00000'],0.004001883239171375,query_1,4248,0.6071428571428571,False,KEGG,28
+Glycosphingolipid biosynthesis - globo and isoglobo series,5762,7,Glycosphingolipid biosynthesis - globo and isoglobo series,KEGG:00603,1.0,['KEGG:00000'],0.001647834274952919,query_1,4248,0.4666666666666667,False,KEGG,15
+Glycosphingolipid biosynthesis - ganglio series,5762,7,Glycosphingolipid biosynthesis - ganglio series,KEGG:00604,1.0,['KEGG:00000'],0.001647834274952919,query_1,4248,0.6363636363636364,False,KEGG,11
+Pyruvate metabolism,5762,34,Pyruvate metabolism,KEGG:00620,1.0,['KEGG:00000'],0.00800376647834275,query_1,4248,0.85,False,KEGG,40
+Glyoxylate and dicarboxylate metabolism,5762,21,Glyoxylate and dicarboxylate metabolism,KEGG:00630,1.0,['KEGG:00000'],0.0049435028248587575,query_1,4248,0.75,False,KEGG,28
+Propanoate metabolism,5762,20,Propanoate metabolism,KEGG:00640,1.0,['KEGG:00000'],0.004708097928436911,query_1,4248,0.8695652173913043,False,KEGG,23
+One carbon pool by folate,5762,13,One carbon pool by folate,KEGG:00670,1.0,['KEGG:00000'],0.0030602636534839923,query_1,4248,0.7647058823529411,False,KEGG,17
+Thiamine metabolism,5762,12,Thiamine metabolism,KEGG:00730,1.0,['KEGG:00000'],0.002824858757062147,query_1,4248,0.8571428571428571,False,KEGG,14
+Sphingolipid metabolism,5762,42,Sphingolipid metabolism,KEGG:00600,1.0,['KEGG:00000'],0.009887005649717515,query_1,4248,0.75,False,KEGG,56
+Herpes simplex virus 1 infection,5762,112,Herpes simplex virus 1 infection,KEGG:05168,1.0,['KEGG:00000'],0.026365348399246705,query_1,4248,0.7320261437908496,False,KEGG,153
