@@ -1,0 +1,11 @@
+name,p_value,methods_found,native,source
+cytoplasm,4.900313498237712e-64,2,GO:0005737,GO:CC
+anatomical structure development,1.887760984745209e-39,2,GO:0048856,GO:BP
+developmental process,1.2729197771437595e-38,2,GO:0032502,GO:BP
+multicellular organism development,2.764645348319512e-32,2,GO:0007275,GO:BP
+membrane,1.1877527597349104e-31,2,GO:0016020,GO:CC
+system development,4.254815737674627e-27,2,GO:0048731,GO:BP
+protein binding,4.647487988548429e-22,2,GO:0005515,GO:MF
+cellular developmental process,1.7775466742558947e-20,2,GO:0048869,GO:BP
+cell differentiation,2.362587606599037e-20,2,GO:0030154,GO:BP
+binding,1.592156680859724e-18,2,GO:0005488,GO:MF
